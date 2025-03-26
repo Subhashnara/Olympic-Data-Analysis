@@ -28,9 +28,9 @@ This project analyzes and visualizes 120 years of Olympic history, from Athens 1
 
 **Files**
 
-* `data_analysis.py`: Main script for data analysis and visualization.
-* `preprocessing.py`: Data cleaning and preparation script.
-* `visualizations.py`: Functions for creating various charts and graphs.
+* `app.py`: Main script for data analysis and visualization.
+* `preprocessor.py`: Data cleaning and preparation script.
+* `helper.py`: Functions for creating various charts and graphs.
 * `requirements.txt`: List of required Python packages.
 
 **Requirements**
